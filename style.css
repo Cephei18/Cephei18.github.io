@@ -65,7 +65,7 @@ body {
 }
 
 .main {
-    background-image: url("asset/bg_me.jpg");
+    background-image: url("bg_me.jpg");
     background-position: bottom;
     background-size: cover;
     background-repeat: no-repeat;
