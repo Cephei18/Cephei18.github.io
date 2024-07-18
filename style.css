@@ -390,11 +390,12 @@ nav img {
     @media only screen and (max-width: 768px) {
 
         .content .button {
-            width: 230px;
+            width: 245px;
             height: 100px;
             font-size: 20px;
             margin-left: 0px;
             margin: 10px;
+            padding-left:7px;
         }
     }
 
